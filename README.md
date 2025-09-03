@@ -37,7 +37,7 @@ saas_intelligence/
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/saas_intelligence.git
+git clone (https://github.com/mohammedshahalatholi/saas_intelligence)
 cd saas_intelligence
 
 
